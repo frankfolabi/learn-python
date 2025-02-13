@@ -1,10 +1,7 @@
-# learn-terraform
+# learn-python
+Python is a general purpose language that is very useful in many fields including DevOps. 
+This repos is to document some of the things I'm learning in Python. 
 
-Terraform is an Infrastructure as Code (IaC) tool that is cloud agnotics.
-
-This learning series would is aimed to equip you with the basics of Terraform 
-and give you confidence to provision and destroy cloud infrastucture.
-
-## Installation
-To begin you will need to install Terraform on your local machine.
-Here is the [link](https://developer.hashicorp.com/terraform/install) to the installation guide on Harshicorp official website.
+## Installation 
+You can follow the [link](https://www.python.org/downloads/) to see how you can install the latest version on your OS.
+Some OS such as Linux has default installation of Python.
