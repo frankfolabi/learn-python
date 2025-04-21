@@ -17,4 +17,7 @@ The following directories contain the topics covered.
 - [loops](./loops)
 - [testing_your_codes](./testing_your_codes)
 
+## Projects
 
+1. [data-visualization](./data-visualization)
+This project documents the use of Python modules such as matplotlib, pyplotly, requests, json, etc to interact with datasets stored in csv, json and also APIs that are publicly available. 
